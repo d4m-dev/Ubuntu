@@ -72,14 +72,13 @@
 
 ### Video Tutorial : 
 
-[![Watch the Tutorial](./distro/image1.jpg)](https://drive.google.com/file/d/15BbcZOODu67w1QjKXVMnKkN07KOfTLGg/preview)
-
-<iframe 
-  src="https://drive.google.com/file/d/15BbcZOODu67w1QjKXVMnKkN07KOfTLGg/preview" 
-  width="640" 
-  height="480" 
-  allow="autoplay">
-</iframe>
+<div align="center">
+  <a href="https://youtu.be/KC1egNPxQxw">
+    <img src="https://img.youtube.com/vi/KC1egNPxQxw/0.jpg" alt="Video Tutorial" style="width:100%;max-width:560px;">
+  </a>
+  <br>
+  <a href="https://youtu.be/KC1egNPxQxw" target="_blank">Xem video hướng dẫn trên YouTube</a>
+</div>
 
 #
 ### Click to see the [Changelog](./CHANGELOG.md)
