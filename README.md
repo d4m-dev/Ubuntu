@@ -82,7 +82,7 @@
 
 #
 ### Click to see the [Changelog](./CHANGELOG.md)
-Licensed under [Apache License](./LICENSE)
+Licensed under [Apache License](./LICENSE.MD)
 #
 
 ### Credits : 
