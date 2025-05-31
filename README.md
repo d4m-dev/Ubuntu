@@ -32,8 +32,8 @@
 
   - `pkg update && pkg upgrade`
   - `pkg install git wget -y`
-  - `git clone --depth=1 https://github.com/d4m-dev/ubuntu.git`
-  - `cd ubuntu`
+  - `git clone --depth=1 https://github.com/d4m-dev/Ubuntu.git`
+  - `cd Ubuntu`
   - `bash setup.sh`
 
 - Then Restart your Termux & Type the following commands
