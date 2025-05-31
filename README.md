@@ -73,11 +73,11 @@
 ### Video Tutorial : 
 
 <div align="center">
-  <a href="https://youtu.be/KC1egNPxQxw">
-    <img src="https://img.youtube.com/vi/KC1egNPxQxw/0.jpg" alt="Video Tutorial" style="width:100%;max-width:560px;">
+  <a href="https://youtu.be/KC1egNPxQxw" target="_blank">
+    <img src="https://img.youtube.com/vi/KC1egNPxQxw/maxresdefault.jpg" alt="Video Tutorial" width="560">
+    <br>
+    <strong>▶️ Xem Video Hướng Dẫn</strong>
   </a>
-  <br>
-  <a href="https://youtu.be/KC1egNPxQxw" target="_blank">Xem video hướng dẫn trên YouTube</a>
 </div>
 
 #
