@@ -72,7 +72,12 @@
 
 ### Video Tutorial : 
 
-[![Watch the Tutorial](./distro/image1.jpg)](https://mega.nz/embed/QvIC1TLQ#3z27MRNPwANAg6JTtx1Ei8kDouOZsZgk00bg4TsJMNQ!1m)
+[![Watch the Tutorial](./distro/image1.jpg)]
+(<iframe src="https://drive.google.com/file/d/15BbcZOODu67w1QjKXVMnKkN07KOfTLGg/preview" 
+  width="640" 
+  height="480" 
+  allow="autoplay">
+</iframe>)
 
 #
 ### Click to see the [Changelog](./CHANGELOG.md)
