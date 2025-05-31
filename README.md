@@ -30,10 +30,10 @@
 - Firstly install [Termux](https://termux.com) apk from [HERE](https://f-droid.org/repo/com.termux_118.apk)
 - Secondly Clone the Repository & Run the setup File
 
-  - `yes | pkg up`
+  - `pkg update && pkg upgrade`
   - `pkg install git wget -y`
-  - `git clone --depth=1 https://github.com/modded-ubuntu/modded-ubuntu.git`
-  - `cd modded-ubuntu`
+  - `git clone --depth=1 https://github.com/d4m-dev/ubuntu.git`
+  - `cd ubuntu`
   - `bash setup.sh`
 
 - Then Restart your Termux & Type the following commands
